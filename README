@@ -1,0 +1,14 @@
+bluethink 0.1
+2007 (C) The Lemon Man
+
+A python software ive written back in the days.
+A gtk daemon that connects to your phone via 
+bluetooth and warns you with a popup when a
+call arrives or when the battery level is low.
+Ive tested it with a Nokia 5230 (RIP) and a Nokia
+6680, nokia ftw :D
+Brought to life in this summer nite (16/06/10), 3 
+years later.
+A new revision may come soon, stay tuned :D
+
+Oh, btw, its linux only :)
